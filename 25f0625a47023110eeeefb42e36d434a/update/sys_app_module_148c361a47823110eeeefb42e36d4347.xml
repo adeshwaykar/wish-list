@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>  Wish Items</mobile_title>
+        <mobile_title>C</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1129732_wish_lis_wish_item</name>
-        <order>1</order>
+        <order>2</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_1129732_wish_lis._wish_item_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-10-25 05:58:39</sys_created_on>
+        <sys_created_on>2023-10-25 07:53:13</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ef82ea5e47023110eeeefb42e36d4389</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>  Wish Items</sys_name>
+        <sys_id>148c361a47823110eeeefb42e36d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create  New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_1129732_wish_lis">25f0625a47023110eeeefb42e36d434a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">25f0625a47023110eeeefb42e36d434a</sys_scope>
-        <sys_update_name>sys_app_module_ef82ea5e47023110eeeefb42e36d4389</sys_update_name>
+        <sys_update_name>sys_app_module_148c361a47823110eeeefb42e36d4347</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-25 07:51:53</sys_updated_on>
+        <sys_updated_on>2023-10-25 07:53:13</sys_updated_on>
         <timeline_page/>
-        <title>  Wish Items</title>
+        <title>Create  New</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
